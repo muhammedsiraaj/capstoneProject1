@@ -16,7 +16,7 @@ const Footer = () => {
               </div>
         </div>
         <div className="footer-content-center">
-                <h2>COMPANY</h2>
+                <h2>BITEBOX</h2>
                 <ul>
                   <li>Home</li>
                   <li>About us</li>
@@ -29,6 +29,7 @@ const Footer = () => {
                 <ul>
                 <li>+91 95 4400 2853</li>
                 <li>contact@bitebox.com</li>
+                <li>bitebox@gmail.com</li>
                 </ul>
         </div>
       </div>
